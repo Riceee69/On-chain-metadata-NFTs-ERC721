@@ -5,6 +5,8 @@ Steps to test it:
 2. Call the mint function to mint the Warrior NFT
 3. Call the train function to generate random numbers for the Warrior attributes. 
 
+P.S. : You need to setup Chainlink's VRF for this contract
+
 
 ```shell
 npx hardhat help
